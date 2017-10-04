@@ -15,4 +15,6 @@
 
 Hello
 
-Today is 1st October 2017. 
+Today is 1st October 2017.
+
+New update: 3st October 2017.
